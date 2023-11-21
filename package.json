@@ -1,0 +1,44 @@
+{
+  "name": "lamadevnext14dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/eslint-plugin-next": "14.0.1",
+    "bcrypt": "5.1.1",
+    "mongoose": "8.0.0",
+    "next": "14.0.1",
+    "next-auth": "5.0.0-beta.3",
+    "react": "18",
+    "react-dom": "18",
+    "react-icons": "4.11.0",
+    "recharts": "2.9.0",
+    "use-debounce": "9.0.4",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    
+    "react-countdown": "^2.3.5",
+    "react-countup": "^6.4.1",
+    
+    "react-iframe": "^1.8.5",
+    "react-router-dom": "^6.8.1",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "slick-slider": "^1.8.2",
+    "swiper": "^9.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "eslint": "8",
+    "eslint-config-next": "14.0.1",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5"
+  }
+}
